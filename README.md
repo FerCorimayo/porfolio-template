@@ -26,3 +26,23 @@ Si tienes alguna duda o problema que no se puede resolver en el proyecto te anim
 ## Recursos
 
 Si te interesa saber más del avatar utilizado en este proyecto, puede ver [Open Peeps](https://www.openpeeps.com) donde podrás personalizar y descargar tu propio avatar con el mismo estilo y gratis.
+
+# Markdown de prueba
+### Markdown de prueba
+##### Markdown de prueba
+
+:) Me llamo Fernando estoy estudiando en la facultad de
+* ingenieria.
+ _unju_
+ __Analista Programador__
+
+Mis primeros comandos basicos en guit son:
+~~~
+git init 
+git add
+git status 
+git commit
+git push
+git pull
+~~~
+
